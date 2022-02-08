@@ -25,7 +25,7 @@ HackinGram is an Shell Script to perform multi-threaded brute force attack again
 
 ### Usage For Linux (Use commands in root)
 ```
-git clone https://github.com/crevils/hackingram
+git clone https://github.com/dqanshi/hackingram
 cd hackingram
 chmod +x instashell.sh
 bash install.sh
